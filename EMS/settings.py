@@ -45,6 +45,8 @@ TWILIO_WHATSAPP_NUMBER = os.getenv("TWILIO_WHATSAPP_NUMBER", "")
 
 # TWILIO_WHATSAPP_NUMBER = os.getenv("TWILIO_WHATSAPP_NUMBER")   # Twilio sandbox number
 
+#twilio is on render setup 
+
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
