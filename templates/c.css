@@ -9,8 +9,6 @@ body {
     padding: 20px;
 }
 
-
-
 /* Container for Login, Signup, and Profile */
 .auth-card, .dashboard-container {
     background: white;
