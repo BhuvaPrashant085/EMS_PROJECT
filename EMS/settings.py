@@ -51,7 +51,7 @@ TWILIO_WHATSAPP_NUMBER = os.getenv("TWILIO_WHATSAPP_NUMBER", "")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["7.vercel.app"]
+ALLOWED_HOSTS = ["8.vercel.app"]
 
 
 
